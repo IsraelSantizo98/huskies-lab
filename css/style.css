@@ -197,3 +197,9 @@ body{
     justify-content: center;
     flex-direction: column;
 }
+/* --Features-- */
+.feature__list li{
+    list-style: unset;
+    font-size: 2rem;
+    padding: .5rem;
+}
